@@ -8,5 +8,5 @@ http://docs.aws.amazon.com/datapipeline/latest/DeveloperGuide/dp-importexport-dd
 ```bash
   git clone git@github.com:tatsu07/convert_DynamoDB_S3File_To_JSON.git
   cd <clone directory>
-  ./convertDynamoToJSON
+  ./convertDynamoToJSON <inputFile> <outputFile>
 ```
